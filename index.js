@@ -17,3 +17,8 @@ const leastFavoriteCustomer = 'bob'
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'not bob';
 }
+
+function attemptTwoFavoriteCustomers(){
+  let favoritecustomer = 'jeff';
+  let favoriteCustomer = 'bobby';
+}
